@@ -7,7 +7,4 @@
 
 Timestamps plugin for [@knorm/knorm](https://www.npmjs.com/package/@knorm/knorm).
 
-## [Documentation](https://knorm.netlify.com/plugins/timestamps.html)
-
-View the docs on @knorm/knorm's documentation site
-[here](https://knorm.netlify.com/plugins/timestamps.html).
+## Moved to https://github.com/knorm/knorm/tree/master/packages/timestamps
